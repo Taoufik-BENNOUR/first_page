@@ -1,0 +1,39 @@
+*{box-sizing: border-box;}
+h1{font-size: 2em;
+text-align: center;
+font-family:Georgia, serif;}
+
+.section {background: grey;
+border:2px black solid;
+margin:2%;
+position: relative;
+text-align:justify;}
+
+p {
+	padding: 10px;
+	font-family: Georgia sans-serif;
+	font-size: 16px;
+	position: relative;
+
+}
+span { text-align: center;
+	font-weight: bold;
+float:right;
+border:1px black solid;
+margin-bottom: 1px;
+position: relative;
+width: 100px;
+}
+#nr1{	background-color: rgb(250, 150, 150);
+	color: rgb(0, 0, 0);}
+#nr2 {
+	background-color: rgb(250, 0, 0);
+	color: rgb(250, 250, 250);
+}
+#nr3 {
+	background-color: rgb(200, 200, 100);
+	color: rgb(0, 0, 0);
+}
+.row {
+	width: 100%;
+}
